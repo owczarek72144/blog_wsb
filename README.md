@@ -1,10 +1,10 @@
-# 1.Blog App \
-Zadanie na zaliczenie przedmiotu \ 
+# 1.Blog App 
+Zadanie na zaliczenie przedmiotu 
 
-# 2.Wykorzystane tehcnologie \
+# 2.Wykorzystane tehcnologie 
 -python \
 -flask \
-sqllite3 \
+-sqllite3 
 
 # 3.Deployment
 
